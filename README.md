@@ -120,7 +120,7 @@ Click on Images to get Bigger Picture
 
 <br>
 
-## ![🎮 Dashboard Demo](Game_Analysis/5_Dashboard_Video/DashboardDemo.mp4)
+## [▶️ Watch Dashboard Demo](Game_Analysis/5_Dashboard_Video/DashboardDemo.mp4)
 
 <br>
 
