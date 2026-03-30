@@ -9,7 +9,7 @@ To Clean & Standardize the data in Dataset and enforcing the relationship betwee
 
 
 ## 🏢 Dataset 
-- Data : VG Sales & Engagement Data (1980 -2025) [Dataset](./1_Raw_Dataset\/)
+- Data : VG Sales & Engagement Data (1980 -2025) [Dataset](Game_Analysis/1_Raw_Dataset)
 - Source : Kaggle
 - Size :  
     - Games Meta → 1512 rows & 14 columns.
