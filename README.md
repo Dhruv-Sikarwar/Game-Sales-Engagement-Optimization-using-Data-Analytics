@@ -42,7 +42,7 @@ To Clean & Standardize the data in Dataset and enforcing the relationship betwee
   - Dimension Tables : Genres,Platforms,Publishers,Teams,Game_genres,Games_Teams
 - Inserted Cleaned records from Sales and Games Cleaned CSV files in to tables  
 
-#### SQL Queries : [Queries](Game_Analysis/4_SQL Queries)
+#### SQL Queries : [Queries](Game_Analysis/4_SQLQueries)
 
 
 ## 📈 Exploratory Data Analysis (EDA)
