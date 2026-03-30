@@ -101,6 +101,11 @@ Click on Images to get Bigger Picture
 
 <br>
 
+### If need more Details here you can check Project PPT File also. 
+
+
+<br>
+
 ## ⚙ Tech Stack 
 - Python (Numpy,Pandas)
 - SQL
@@ -115,10 +120,12 @@ Click on Images to get Bigger Picture
 
 <br>
 
-## ![🎮 Dashboard Demo](Game_Analysis\5_Dashboard_Video\DashboardDemo)
+## ![🎮 Dashboard Demo](Game_Analysis\5_Dashboard_Video\DashboardDemo.mp4)
 
+<br>
 
-
+## Contact - Dhruv Sikarwar (Author)
+- [Connect With me on LinkedIn](https://www.linkedin.com/in/dhruv-sikarwar-b2477a30b)
 
 
 
