@@ -102,7 +102,7 @@ Click on Images to get Bigger Picture
 <br>
 
 ### If need more Details here you can check Project PPT File also. 
-[PPT File](Game_Analysis\Game_Analysis_Presentation.pptx)
+[PPT File](Game_Analysis/Games_Analysis_Presentation.pptx)
 
 <br>
 
@@ -120,7 +120,7 @@ Click on Images to get Bigger Picture
 
 <br>
 
-## ![🎮 Dashboard Demo](Game_Analysis\5_Dashboard_Video\DashboardDemo.mp4)
+## ![🎮 Dashboard Demo](Game_Analysis/5_Dashboard_Video/DashboardDemo.mp4)
 
 <br>
 
