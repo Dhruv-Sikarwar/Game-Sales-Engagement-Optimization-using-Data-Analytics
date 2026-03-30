@@ -31,8 +31,8 @@ To Clean & Standardize the data in Dataset and enforcing the relationship betwee
 ### --> Games Sales :-
   - Converted Data type of Year from float to int for better calculated analysis.
   - Replaced null values from Publisher to ‘Unknown’ .
-#### Cleaned Dataset : [Cleaned Dataset](./3_Cleaned_Dataset/)
-#### Python Notebooks : [Python Notebooks](./2_Python_Notebooks/)
+#### Cleaned Dataset : [Cleaned Dataset](Game_Analysis/3_Cleaned_Dataset)
+#### Python Notebooks : [Python Notebooks](Game_Analysis/2_Python_Notebooks)
 
 
 ## 🔁 Data Pre-Processing / Transformation 
@@ -42,7 +42,7 @@ To Clean & Standardize the data in Dataset and enforcing the relationship betwee
   - Dimension Tables : Genres,Platforms,Publishers,Teams,Game_genres,Games_Teams
 - Inserted Cleaned records from Sales and Games Cleaned CSV files in to tables  
 
-#### SQL Queries : [Queries](./4_SQLQueries/)
+#### SQL Queries : [Queries](Game_Analysis/4_SQL Queries)
 
 
 ## 📈 Exploratory Data Analysis (EDA)
